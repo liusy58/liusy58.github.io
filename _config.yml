@@ -52,7 +52,11 @@ url: "http://liusy58.github.io/" # the base hostname & protocol for your site
 #
 
 permalink: /:title/
+<<<<<<< HEAD
 # permalink: /
+=======
+#permalink: /
+>>>>>>> 8aef746593ec15062e2044bf55d717e0b950727b
 
 
 # The release of Jekyll Now that you're using
